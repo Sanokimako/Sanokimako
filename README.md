@@ -22,7 +22,7 @@ I’m always looking for new challenges and opportunities to collaborate with ot
 
 ## Organization
 
-- **Organization**: [ArtoriaSphere](https://your-organization-link.com)
+- **Organization**: [ArtoriaSphere](https://github.com/ArtoriasphereOrg)
 
 I’m a member of **ArtoriaSphere**, an organization focused on building innovative software solutions and supporting the development of creative technologies. ArtoriaSphere brings together developers, designers, and visionaries to collaborate on projects that aim to push the boundaries of what's possible in the tech world.
 
@@ -30,8 +30,8 @@ At ArtoriaSphere, we are working on a range of exciting projects, from desktop a
 
 ## Skills & Technologies
 
-- **Programming Languages**: C++, Python, JavaScript, C#
-- **Frameworks & Tools**: Electron, Qt, Node.js, Visual Studio, Git, Docker
+- **Programming Languages**: React, Node.js, Typescript, IBM Basic assembly language, POP11 
+- **Frameworks & Tools**: Visual Studio, Git, Tkintercad, Wokkie32
 - **Operating Systems**: Windows, Linux
 - **Other Skills**: UI/UX design, Software Testing, Debugging, Performance Optimization
 
